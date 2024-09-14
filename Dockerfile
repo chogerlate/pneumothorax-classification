@@ -15,5 +15,5 @@ RUN apt-get install -y libglib2.0-0
 
 
 COPY ./app /code/app
-RUN mkdir -p /code/weights
+COPY ./weights /code/weights
 CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "80"]

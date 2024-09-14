@@ -4,11 +4,11 @@ streamlit
 lightning
 timm
 albumentations
-numpy
 python-dotenv
 pydantic
 Pillow
 requests
 opencv-python-headless
 albumentations
-torch
+python-multipart
+numpy==1.26.3
