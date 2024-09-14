@@ -1,6 +1,9 @@
 import streamlit as st
 import requests
 import os
+from dotenv import load_dotenv
+# Load environment variables from .env file
+load_dotenv()
 
 def classify_images(files):
     """Send images to FastAPI service and return predictions."""
