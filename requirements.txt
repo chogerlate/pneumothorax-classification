@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+streamlit
+lightning
+timm
+albumentations
+numpy
+python-dotenv
+pydantic
+Pillow
+requests
+opencv-python-headless
+albumentations
+torch
