@@ -7,6 +7,10 @@ This repository contains code and resources for classifying pneumothorax conditi
 - Docker
 - Internet connection for downloading model weights
 
+## Dataset 
+- train and test image datasets [abhishek/siim-png-images](https://www.kaggle.com/datasets/abhishek/siim-png-images)
+- Mapping csv for training and testing [chogerlate/siim-train-dataframe](https://www.kaggle.com/datasets/chogerlate/siim-train-dataframe)
+
 ## Weights Downloading
 Before building the Docker image, you need to download the pre-trained model weights. Follow these steps:
 
