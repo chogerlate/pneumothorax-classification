@@ -164,7 +164,7 @@ cython_debug/
 
 # Our custom gitignore
 archive/
-notebooks/
+# notebooks/
 siim_png/
 *.csv
 *.zip
