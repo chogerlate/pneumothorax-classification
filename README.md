@@ -1,6 +1,4 @@
 # Pneumothorax Classification
-
-## Overview
 This repository contains code and resources for classifying pneumothorax conditions from medical images. The project leverages deep learning techniques to analyze and predict the presence of pneumothorax in chest X-ray images.
 
 ## Prerequisites
